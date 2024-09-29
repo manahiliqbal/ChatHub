@@ -26,7 +26,7 @@ const SignUp = () => {
 	return (
 		<div className='flex flex-col items-center justify-center min-w-96 mx-auto'>
 			<div className='w-full p-6 rounded-lg shadow-md bg-gray-400 bg-clip-padding backdrop-filter backdrop-blur-lg bg-opacity-0'>
-				<h1 className='text-3xl font-semibold text-center text-pink-300'>
+				<h1 className='text-3xl font-semibold text-center text-pink-400'>
 					Sign Up <span className='text-pink-500'> ChatHub</span>
 				</h1>
 
