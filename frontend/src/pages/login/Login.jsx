@@ -16,9 +16,9 @@ const Login = () => {
 	return (
 		<div className='flex flex-col items-center justify-center min-w-96 mx-auto'>
 			<div className='w-full p-6 rounded-lg shadow-md bg-white-400 bg-clip-padding backdrop-filter backdrop-blur-lg bg-opacity-0'>
-				<h1 className='text-3xl font-semibold text-center text-pink-400'>
+				<h1 className='text-3xl font-semibold text-center text-white'>
 					Login
-					<span className='text-pink-500'> ChatHub</span>
+					<span className='text-white'> ChatHub</span>
 				</h1>
 
 				<form onSubmit={handleSubmit}>
